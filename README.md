@@ -1,4 +1,4 @@
-# PointBank 
+# PointBank Legal
 
 Official legal documentation for the PointBank Discord economy bot.
 
