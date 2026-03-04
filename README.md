@@ -1,111 +1,118 @@
-<!-- =========================
-     PointBank - Legal Repo
-     README.md
-     ========================= -->
+<!-- ========================= -->
+<!-- PointBank README (NodeForge) -->
+<!-- ========================= -->
 
-<p align="center">
-  <!-- Optional: Add a banner image later -->
-  <!-- <img src="https://raw.githubusercontent.com/Shoresy420/PointBank-Legal/main/assets/pointbank-banner.png" alt="PointBank Banner" width="100%" /> -->
-</p>
+<!-- Optional Banner (recommended)
+Upload an image to your repo as: /assets/banner.png
+Then uncomment the next line:
+![PointBank Banner](./assets/banner.png)
+-->
 
-<h1 align="center">PointBank 💰</h1>
-<p align="center">
-  Legal documentation & policy pages for the PointBank Discord bot.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://discord.gg/ePy25U5Ux5"><strong>Join the Official PointBank Discord</strong></a>
-  ·
-  <a href="#legal-documents">Legal Documents</a>
-  ·
-  <a href="#bot-features">Bot Features</a>
-  ·
-  <a href="#how-to-use-pointbank">How to Use</a>
-</p>
+# PointBank 💰  
+### Discord Economy & Reward Bot
 
-<p align="center">
-  <img alt="Status" src="https://img.shields.io/badge/status-active-success" />
-  <img alt="Discord" src="https://img.shields.io/badge/discord-join%20server-5865F2" />
-  <img alt="Docs" src="https://img.shields.io/badge/docs-legal%20%26%20policies-blue" />
-</p>
+Earn points. Claim rewards. Climb the leaderboard.
 
----
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](#)
+[![Discord](https://img.shields.io/badge/discord-bot-5865F2)](#)
+[![Status](https://img.shields.io/badge/status-active-success)](#)
 
-## What this repo is
+<br />
 
-This repository contains the **Terms, Privacy Policy, and related documentation** for **PointBank**, a Discord economy-style bot that rewards users with points and provides server leaderboards.
+<a href="https://discord.com/oauth2/authorize?client_id=1460782772930089093" target="_blank">
+  <img src="https://img.shields.io/badge/Invite%20PointBank-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.gg/ePy25U5Ux5" target="_blank">
+  <img src="https://img.shields.io/badge/Join%20Official%20Discord-2CA5E0?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
-> Looking for the bot’s source code?  
-> This repo is for **legal & documentation**. The bot code may live in a separate repository.
+</div>
 
 ---
 
-## Bot Features
+## ✨ What is PointBank?
 
-PointBank is designed to be simple, lightweight, and fun:
+**PointBank** is a Discord economy and reward bot built to gamify communities through **simple point rewards**, **leaderboards**, and **periodic bonuses**.
 
-- ✅ Daily rewards (`/daily`)
-- ✅ Weekly rewards (`/weekly`)
-- ✅ Server leaderboards (`/leaderboard`)
-- ✅ Slash commands (easy to use)
-- ✅ Randomized rewards (keeps it fun)
+Users earn points over time, claim scheduled rewards, and compete with others on the server leaderboard.
 
 ---
 
-## Commands
+## 🚀 Features
+
+- ✅ **Daily rewards** (`/daily`)
+- ✅ **Weekly rewards** (`/weekly`)
+- ✅ **Server leaderboard** (`/leaderboard`)
+- ✅ **Randomized point payouts**
+- ✅ **Slash-command based**
+- ✅ **Lightweight & easy to use** (no complicated setup required)
+
+---
+
+## 📜 Commands
 
 | Command | Description |
 |--------|-------------|
 | `/daily` | Claim a random daily point reward |
 | `/weekly` | Claim a larger weekly point reward |
-| `/leaderboard` | View the server’s top point earners |
+| `/leaderboard` | View the top point earners in the server |
 | `/ping` | Check if the bot is online |
 
 ---
 
-## How to Use PointBank
+## ✅ How to Use
 
-1. Invite PointBank to your Discord server (invite link may be provided in the official Discord).
-2. Users can start using commands immediately.
-3. Claim rewards:
-   - `/daily`
-   - `/weekly`
-4. Compete with others:
-   - `/leaderboard`
+1. **Invite PointBank** to your server  
+   👉 https://discord.com/oauth2/authorize?client_id=1460782772930089093
 
-No configuration is required for basic use.
+2. Members can immediately start using commands:
+   - `/daily` to claim daily points  
+   - `/weekly` to claim weekly points  
+   - `/leaderboard` to view server rankings  
+
+3. Join the official community Discord for updates, support, and feature requests:  
+   👉 https://discord.gg/ePy25U5Ux5
 
 ---
 
-## Legal Documents
+## 🔗 Quick Links
 
-This repository includes the legal pages required for public distribution and transparency:
+- **Invite PointBank:** https://discord.com/oauth2/authorize?client_id=1460782772930089093  
+- **Official Discord:** https://discord.gg/ePy25U5Ux5
+
+---
+
+## 📄 Legal Documentation (This Repo)
+
+This repository hosts the legal documentation required for operating PointBank publicly, including:
 
 - **Terms of Service**
 - **Privacy Policy**
-- **Usage Guidelines** (if applicable)
+- **Usage Guidelines**
 
-> If you add these as separate markdown files, link them here:
-
-- Terms: `./TERMS.md`
-- Privacy: `./PRIVACY.md`
-- Guidelines: `./GUIDELINES.md`
+These documents support transparency, compliance, and public distribution requirements.
 
 ---
 
-## Reporting & Contact
+## 🧠 Roadmap
 
-For questions, requests, or concerns:
-- Join the official Discord: **https://discord.gg/ePy25U5Ux5**
+Planned upgrades and expansions:
+
+- Monthly rewards
+- Yearly rewards
+- Premium boosts & multipliers
+- Shop system (spend points on rewards)
+- Admin tools & configuration
+- Web dashboard
 
 ---
 
-## License
+## 🧱 Built by NodeForge
 
-This repository is provided for legal documentation and informational purposes related to the PointBank Discord bot.
+**Author:** NodeForge  
+**Project:** PointBank
 
 ---
-
-<p align="center">
-  <sub>© PointBank · Built by Joshua Rugg</sub>
-</p>
