@@ -34,34 +34,6 @@ If users claim `/daily` multiple days in a row, they earn streak bonuses.
 If a user does not claim `/daily` within **48 hours**, the streak resets.
 
 ---
-
-## Added Commands
-
-`/weekly`  
-Users can now claim a weekly reward with a higher payout.
-
-`/leaderboard`  
-Displays the top users in the server ranked by total points.
-
----
-
-## Improvements
-
-• Improved reward tracking  
-• Better database handling  
-• Leaderboard now displays user mentions
-
----
-
-# Version 1.1 – Initial Release
-
-## Features
-
-• Daily rewards system  
-• Point tracking  
-• SQLite database  
-• Slash command support
-
 ## Added
 
 ### Community Jackpot System 🎰
@@ -85,3 +57,39 @@ Users can purchase tickets using their points.
 The winner receives the **entire jackpot pool**.
 
 If no tickets are purchased during the cycle, the jackpot **rolls over** to the next month.
+
+## Added Commands
+
+`/weekly`  
+Users can now claim a weekly reward with a higher payout.
+
+`/leaderboard`  
+Displays the top users in the server ranked by total points.
+
+`/jackpot`
+Enter the monthly jackpot drawing.
+
+`/buyticket`
+Purchase ticket(s) for upcoming monthly drawing. (points used to purchase tickets go directly into the pool)
+
+`/coinflip` 
+Place a bet on a random cointoss for heads or tails. (points go towards jackpot)
+
+---
+
+## Improvements
+
+• Improved reward tracking  
+• Better database handling  
+• Leaderboard now displays user mentions
+
+---
+
+# Version 1.1 – Initial Release
+
+## Features
+
+• Daily rewards system  
+• Point tracking  
+• SQLite database  
+• Slash command support
