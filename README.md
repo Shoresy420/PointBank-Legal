@@ -96,13 +96,34 @@ If no tickets are purchased during the cycle, the jackpot **rolls over into the 
 
 This creates a long-term community reward that everyone can participate 
 
+## Commands
+
+### Rewards
+
 | Command | Description |
 |--------|-------------|
 | `/daily` | Claim daily reward and build streak |
 | `/weekly` | Claim weekly reward |
+
+### Economy
+
+| Command | Description |
+|--------|-------------|
+| `/coinflip` | Gamble points in a coin flip |
+| `/buyticket` | Purchase a ticket for the jackpot |
+
+### Jackpot
+
+| Command | Description |
+|--------|-------------|
+| `/jackpot` | View the current jackpot pool |
+
+### Utility
+
+| Command | Description |
+|--------|-------------|
 | `/leaderboard` | View server leaderboard |
-| `/jackpot` | Enter the monthly jackpot drawing |
-| `/ping` | Check bot status |
+| `/ping` | Check if the bot is online |
 
 ---
 
