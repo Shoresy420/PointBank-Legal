@@ -73,14 +73,36 @@ Displays the top users with the highest points.
 
 ---
 
-# Commands
+### Community Jackpot Pool 🎰
+
+PointBank includes a **community jackpot pool** that grows over time through user activity.
+
+When users lose points in certain commands (such as coinflip), the lost points are added to the **community jackpot pool**.
+
+Points may also be added to the pool when:
+
+• Users leave the server with remaining points  
+• Community events contribute to the pool  
+
+---
+
+### Monthly Jackpot Lottery
+
+Once every **30 days**, users can purchase tickets for a **jackpot drawing**.
+
+Users can buy tickets using their points for a chance to win the entire jackpot pool.
+
+If no tickets are purchased during the cycle, the jackpot **rolls over into the next month**, allowing the pool to grow larger over time.
+
+This creates a long-term community reward that everyone can participate 
 
 | Command | Description |
 |--------|-------------|
-| `/daily` | Claim daily points and build streaks |
+| `/daily` | Claim daily reward and build streak |
 | `/weekly` | Claim weekly reward |
 | `/leaderboard` | View server leaderboard |
-| `/ping` | Check if the bot is online |
+| `/jackpot` | Enter the monthly jackpot drawing |
+| `/ping` | Check bot status |
 
 ---
 
