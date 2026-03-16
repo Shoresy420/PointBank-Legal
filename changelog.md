@@ -61,3 +61,27 @@ Displays the top users in the server ranked by total points.
 • Point tracking  
 • SQLite database  
 • Slash command support
+
+## Added
+
+### Community Jackpot System 🎰
+
+A new community jackpot pool has been implemented.
+
+The jackpot grows through:
+
+• Points lost during games (such as coinflip)  
+• Points from inactive users leaving the server  
+• Community contributions
+
+---
+
+### Monthly Jackpot Lottery
+
+A jackpot drawing occurs every **30 days**.
+
+Users can purchase tickets using their points.
+
+The winner receives the **entire jackpot pool**.
+
+If no tickets are purchased during the cycle, the jackpot **rolls over** to the next month.
